@@ -7,7 +7,7 @@ Active Vision Based Minimalist Structure-less Gap Detection For Quadrotor Flight
 
 1. Connect your host machine to Bebop 2 via Wifi. 
 
-2. Download the recommended [4.0.6 version](https://raw.githubusercontent.com/chahatdeep/GapFlyt/master/firmware/bebop2_update.plf?token=AKLIvRG9JZg8UdUh9F-MvBDXzTX9nOn6ks5a0QUCwA%3D%3D)
+2. Download the recommended [4.0.6 version](https://raw.githubusercontent.com/chahatdeep/GapFlyt/master/firmware/bebop2_update.plf?token=AKLIvRG9JZg8UdUh9F-MvBDXzTX9nOn6ks5a0QUCwA%3D%3D) firmware.
 
 3. Once the desired firmware is downloaded, a `telnet` client is required like (`Putty` or any FTP client like `FileZilla`). Alternatively on a linux machine, you can use a file manager like `nautilus` to copy the firmware to the Bebop. Now,
   * Turn on the Bebop and Connect to its WiFi network.
