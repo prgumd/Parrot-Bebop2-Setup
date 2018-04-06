@@ -35,9 +35,9 @@ vi /bin/updater/dgwl.txt
 0 \ .0 \ .0
 3 \ .3 \. [0-9] \ +
 ```
-   1. Press `i` to enter text entry mode in `vim`.
+   * Press `i` to enter text entry mode in `vim`.
   
-   2. Type the version number of the firmware you downloaded in the last line:
+   * Type the version number of the firmware you downloaded in the last line:
   ```
   # List of firmware versions to which to downgrade is allowed 
   # Regexps are basic regular expressions (BRE). See grep (1) manpage on a 
@@ -47,14 +47,14 @@ vi /bin/updater/dgwl.txt
   4.0.4
   ```
   
-   c. Hit `ESC` key to exit the insert mode.
+   * Hit `ESC` key to exit the insert mode.
   
-  d. Save the file by typing 
+   * Save the file by typing 
   ```
   :wq
   ```
   
-  e. Hit `ENTER`
+   * Hit `ENTER`
   
 6. Start `nautilus` or any other `FTP` client and connect to the server with the address `192.168.42.1` anonymously (No `username` and `password`). See the image below.
 ![Telnet-Nautilus](img/telnet.png)
