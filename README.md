@@ -53,7 +53,7 @@ vi /bin/updater/dgwl.txt
   v. Hit `ENTER`
   
 6. Start `nautilus` or any other `FTP` client and connect to the server with the address `192.168.42.1` anonymously (No `username` and `password`). See the image below.
-![Telnet-Nautilus](img/telnet1.png)
+![Telnet-Nautilus](img/telnet.png)
 7. Copy the downloaded firmware to `/data/ftp/internal_000` folder of the Bebop 2.
 8. Go back to the telnet shell/terminal and enter:
 ```
