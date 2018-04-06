@@ -3,12 +3,11 @@ Active Vision Based Minimalist Structure-less Gap Detection For Quadrotor Flight
 
 ***
 ## Downgrading of Bebop 2 Firmware:
-*Why Downgrade? Versions 4.1+ have issues with take-off. Bebop 2 experiences about 120-180 degree yaw on take-off.* If you have version 4.0.6, please skip the downgrade procedure.
+*Why Downgrade? Versions 4.1+ have issues with take-off. Bebop 2 experiences about 120-180 degree yaw on take-off.* If you have version 4.0.6, please skip the downgrade procedure. As of firmaware version 4.0.4, the downgrade procedure has changed.*
 
-As of firmaware version 4.0.4, the downgrade procedure has changed. 
 1. Connect your host machine to Bebop 2 via Wifi. 
 
-2. Download the recommended [4.0.6 version](http://parrot.astropix.it/Bebop2/4.0.6/bebop2_update.plf) or any other desired Firmware from [here](https://icarus23blog.wordpress.com/2015/02/15/downgrade-del-firmware-del-bebop/).
+2. Download the recommended [4.0.6 version](firmware/bebop2_update.plf)
 
 3. Once the desired firmware is downloaded, a `telnet` client is required like (`Putty` or any FTP client like `FileZilla`). Alternatively on a linux machine, you can use a file manager like `nautilus` to copy the firmware to the Bebop. Now,
   * Turn on the Bebop and Connect to its WiFi network.
@@ -83,7 +82,8 @@ vi /bin/updater/dgwl.txt
 ```
   
 10. And finally, reboot the Bebop 2 by entering `reboot` in the telnet terminal. 
-*Note: Bebop will reboot multiple times for the firmware upgrade/downgrade procedure.
+*Note: Bebop will reboot multiple times for the firmware upgrade/downgrade procedure.* 
+Check the version using `FreeFlight Pro` android/iOS app. It will ask you to update the firmware using the mobile application. **DO NOT UPGRADE THE FIRMWARE using your phone**.
 
 
 Source: [THE DIARY OF ICARUS23](https://icarus23blog.wordpress.com/2017/07/14/downgrade-del-firmware-del-bebop-2/)
