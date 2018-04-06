@@ -35,9 +35,9 @@ vi /bin/updater/dgwl.txt
 0 \ .0 \ .0
 3 \ .3 \. [0-9] \ +
 ```
-  a. Press `i` to enter text entry mode in `vim`.
+   a. Press `i` to enter text entry mode in `vim`.
   
-  b. Type the version number of the firmware you downloaded in the last line:
+   b. Type the version number of the firmware you downloaded in the last line:
   ```
   # List of firmware versions to which to downgrade is allowed 
   # Regexps are basic regular expressions (BRE). See grep (1) manpage on a 
@@ -47,7 +47,7 @@ vi /bin/updater/dgwl.txt
   4.0.4
   ```
   
-  c. Hit `ESC` key to exit the insert mode.
+   c. Hit `ESC` key to exit the insert mode.
   
   d. Save the file by typing 
   ```
