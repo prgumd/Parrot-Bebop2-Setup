@@ -1,14 +1,14 @@
-# GapFlyt
+#GapFlyt
 Active Vision Based Minimalist Structure-less Gap Detection For Quadrotor Flight
 
 ***
 ## Downgrading of Bebop 2 Firmware:
-*Why Downgrade? Versions 4.1+ have issues with take-off. Bebop 2 experiences about 120-180 degree yaw on take-off.* If you have version <4.1, please skip the downgrade procedure.
+*Why Downgrade? Versions 4.1+ have issues with take-off. Bebop 2 experiences about 120-180 degree yaw on take-off.* If you have version 4.0.6, please skip the downgrade procedure.
 
 As of firmaware version 4.0.4, the downgrade procedure has changed. 
 1. Connect your host machine to Bebop 2 via Wifi. 
 
-2. Download the desired Firmware from [here](https://icarus23blog.wordpress.com/2015/02/15/downgrade-del-firmware-del-bebop/) or tested [version-4.0.4](http://parrot.astropix.it/Bebop2/4.0.4/bebop2_update.plf).
+2. Download the recommended [4.0.6 version](http://parrot.astropix.it/Bebop2/4.0.6/bebop2_update.plf) or any other desired Firmware from [here](https://icarus23blog.wordpress.com/2015/02/15/downgrade-del-firmware-del-bebop/).
 
 3. Once the desired firmware is downloaded, a `telnet` client is required like (`Putty` or any FTP client like `FileZilla`). Alternatively on a linux machine, you can use a file manager like `nautilus` to copy the firmware to the Bebop. Now,
   * Turn on the Bebop and Connect to its WiFi network.
@@ -44,7 +44,7 @@ vi /bin/updater/dgwl.txt
   # linux desktop to get the correct syntax (especially metacharacters escapes). 
   0 \ .0 \ .0 
   3 \ .3 \. [0-9] \ + 
-  4.0.4
+  4.0.6
   ```
   
    * Hit `ESC` key to exit the insert mode.
@@ -74,8 +74,8 @@ vi /bin/updater/dgwl.txt
 # linux desktop to get the correct syntax (especially metacharacters escapes).
 0 \ .0 \ .0
 3 \ .3 \. [0-9] \ +
-4.0.4
-[FIRMWARE UPDATER] Boot # 4: search result: 4.0.4
+4.0.6
+[FIRMWARE UPDATER] Boot # 4: search result: 4.0.6
 [FIRMWARE UPDATER] Boot # 4: downgrading allowed by whitelist
 [FIRMWARE UPDATER] Boot # 4: Sending
 /data/ftp/internal_000/bebop2_update.plf to the Update partition
