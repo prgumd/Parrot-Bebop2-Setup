@@ -1,12 +1,14 @@
 # GapFlyt
 Active Vision Based Minimalist Structure-less Gap Detection For Quadrotor Flight
 
+***
 ## Downgrading of Bebop 2 Firmware:
-As of firmaware version 4.0.4, the downgrade procedure has changed. 
+*Why Downgrade? Versions 4.1+ have issues with take-off. Bebop 2 experiences about 120-180 degree yaw on take-off.* If you have version <4.1, please skip the downgrade procedure.
 
+As of firmaware version 4.0.4, the downgrade procedure has changed. 
 1. Connect your host machine to Bebop 2 via Wifi. 
 
-2. Download the desired Firmware from [here](https://icarus23blog.wordpress.com/2015/02/15/downgrade-del-firmware-del-bebop/) or tested [version-4.0.4](http://parrot.astropix.it/Bebop2/4.0.4/bebop2_update.plf). *Note: Versions 4.1+ have issues with take-off. Bebop 2 experiences about 120-180 degree yaw on take-off.* 
+2. Download the desired Firmware from [here](https://icarus23blog.wordpress.com/2015/02/15/downgrade-del-firmware-del-bebop/) or tested [version-4.0.4](http://parrot.astropix.it/Bebop2/4.0.4/bebop2_update.plf).
 
 3. Once the desired firmware is downloaded, a `telnet` client is required like (`Putty` or any FTP client like `FileZilla`). Alternatively on a linux machine, you can use a file manager like `nautilus` to copy the firmware to the Bebop. Now,
   * Turn on the Bebop and Connect to its WiFi network.
