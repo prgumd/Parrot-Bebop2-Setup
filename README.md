@@ -9,14 +9,7 @@
 2. Download the recommended [4.0.6 version](https://drive.google.com/open?id=1zrpRKtHe-TR_2FuedCzT5tQLqBkdp-Wy) firmware.
 
 Other versions can be found here: <br />
-[4.0.3](https://drive.google.com/open?id=1O4RBNLFKPhsZftSp4SUrgAJQNQsqYNCF) <br />
-[4.0.4](https://drive.google.com/open?id=1X4IDXzgNrWdo4UWooByo7dMmTMmhng2E) <br />
-[4.0.5](https://drive.google.com/open?id=1Na5ANPf5kCT_Nk1lxSXrvKhKcHNqo2_Y) <br />
-[4.0.6](https://drive.google.com/open?id=1zrpRKtHe-TR_2FuedCzT5tQLqBkdp-Wy) <br />
-[4.2.0](https://drive.google.com/open?id=1m72-I9pifd8PwQdeMOt1PEFuzDc4A6EH) <br />
-[4.2.1](https://drive.google.com/open?id=1Hejt_EmKkXzUG-Ov9ZAeYIxU7XIGysvC) <br />
-[4.3.1](https://drive.google.com/open?id=1wSwM9pdRsOSetmv1QOtJFEaOOWFMECtI) <br />
-[4.4.0](https://drive.google.com/open?id=1e1uE-KZyVcUlgnGBhHri3eN6N4P2nZkd) <br />
+[4.0.3](https://drive.google.com/open?id=1O4RBNLFKPhsZftSp4SUrgAJQNQsqYNCF), [4.0.4](https://drive.google.com/open?id=1X4IDXzgNrWdo4UWooByo7dMmTMmhng2E), [4.0.5](https://drive.google.com/open?id=1Na5ANPf5kCT_Nk1lxSXrvKhKcHNqo2_Y), [4.0.6](https://drive.google.com/open?id=1zrpRKtHe-TR_2FuedCzT5tQLqBkdp-Wy), [4.2.0](https://drive.google.com/open?id=1m72-I9pifd8PwQdeMOt1PEFuzDc4A6EH), [4.2.1](https://drive.google.com/open?id=1Hejt_EmKkXzUG-Ov9ZAeYIxU7XIGysvC), [4.3.1](https://drive.google.com/open?id=1wSwM9pdRsOSetmv1QOtJFEaOOWFMECtI), [4.4.0](https://drive.google.com/open?id=1e1uE-KZyVcUlgnGBhHri3eN6N4P2nZkd) <br />
 
 Note that the firmwares are named as follows `bebop2_update_v_a_b_c.pf` for version `a.b.c`. For eg., for version 4.0.6 the name of the file is `bebop2_update_v_4_0_6.plf`.
 
