@@ -38,7 +38,7 @@ vi /bin/updater/dgwl.txt
 0 \ .0 \ .0
 3 \ .3 \. [0-9] \ +
 ```
-   * Press `i` to enter text entry mode in `vim`.
+   * Press `i` to enter text entry mode in `vi`.
   
    * Type the version number of the firmware you downloaded in the last line:
   ```
