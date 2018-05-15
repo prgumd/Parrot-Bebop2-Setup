@@ -6,7 +6,7 @@
 
 1. Connect your host machine to Bebop 2 via Wifi. 
 
-2. Download the recommended [4.0.6 version](https://drive.google.com/open?id=1zrpRKtHe-TR_2FuedCzT5tQLqBkdp-Wy) firmware.
+2. Download the recommended version 4.0.6 firmware from [Google Drive](https://drive.google.com/open?id=1zrpRKtHe-TR_2FuedCzT5tQLqBkdp-Wy) or [Git Repo](https://github.com/prgumd/Parrot-Bebop2-Setup/blob/master/bebop2_update_v_4_0_6.plf).
 
 Other versions of the firmware can be found here: <br />
 [4.0.3](https://drive.google.com/open?id=1O4RBNLFKPhsZftSp4SUrgAJQNQsqYNCF), [4.0.4](https://drive.google.com/open?id=1X4IDXzgNrWdo4UWooByo7dMmTMmhng2E), [4.0.5](https://drive.google.com/open?id=1Na5ANPf5kCT_Nk1lxSXrvKhKcHNqo2_Y), [4.0.6](https://drive.google.com/open?id=1zrpRKtHe-TR_2FuedCzT5tQLqBkdp-Wy), [4.2.0](https://drive.google.com/open?id=1m72-I9pifd8PwQdeMOt1PEFuzDc4A6EH), [4.2.1](https://drive.google.com/open?id=1Hejt_EmKkXzUG-Ov9ZAeYIxU7XIGysvC), [4.3.1](https://drive.google.com/open?id=1wSwM9pdRsOSetmv1QOtJFEaOOWFMECtI), [4.4.0](https://drive.google.com/open?id=1e1uE-KZyVcUlgnGBhHri3eN6N4P2nZkd) <br />
