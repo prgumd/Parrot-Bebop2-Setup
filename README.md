@@ -2,7 +2,7 @@
 
 ***
 ## Downgrading of Bebop 2 Firmware:
-*Why Downgrade? Versions 4.1+ have issues with take-off. Bebop 2 experiences about 120-180 degree yaw on take-off.* If you have version 4.0.6, please skip the downgrade procedure. As of firmaware version 4.0.4, the downgrade procedure has changed.*
+*Why Downgrade? Versions 4.1+ have issues with take-off. Bebop 2 experiences about 120-180 degree yaw on take-off.* If you have version 4.0.6, please skip the downgrade procedure. As of firmware version 4.0.4, the downgrade procedure has changed.*
 
 1. Connect your host machine to Bebop 2 via Wifi. 
 
