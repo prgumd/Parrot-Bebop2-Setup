@@ -1,4 +1,4 @@
-# Parrot-Bebop2-Setup 
+# Parrot-Bebop2-Custom Firmware
 
 ***
 ## Downgrading of Bebop 2 Firmware:
