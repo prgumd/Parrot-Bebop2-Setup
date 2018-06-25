@@ -8,7 +8,7 @@ Danger: Pay careful attention to following instructions as these modifications c
 ```
 
 1. Parrot Bebop 2:
-[[img/1.jpg]]
+![img/1.jpg]
 
 2. Unscrew the two screws holding the nose of the Bebop 2
 [[img/2.jpg]]
