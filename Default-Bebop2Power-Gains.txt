@@ -1,0 +1,56 @@
+#------------                                                                                                  
+# Controllers                                                                                                  
+#------------                                                                                                  
+                                                                                                               
+# Angles                                                                                                       
+                                                                                                               
+gainsQuaternionSet =                                                                                           
+(                                                                                                              
+  "gainsQuaternionSetInitValue",                                                                               
+  ("Default", {                                                                                                
+        thetaKP = 264.7408; # [s-2]                                                                            
+        thetaKI = 264.7408; # [s-3]                                                                            
+        thetaKD = 33.0926; # [s-1]                                                                             
+        thetaKDD = 0.5295; # No units                                                                          
+        phiKP = 242.5376; # [s-2]                                                                              
+        phiKI = 242.5376; # [s-3]                                                                              
+        phiKD = 30.3349; # [s-1]                                                                               
+        phiKDD = 0.4879; # No units                                                                            
+        psiKP = 300.0; # [s-2]                                                                                 
+        psiKI = 0.0; # [s-3]                                                                                   
+        psiKD = 30.0; # [s-1]                                                                                  
+        psiKDD = 0.0; # No units                                                                               
+  }),                                                                                                          
+  ("Flip",   {                                                                                                 
+        thetaKP = 264.7408; # [s-2]                                                                            
+        thetaKI = 264.7408; # [s-3]                                                                            
+        thetaKD = 33.0926; # [s-1]                                                                             
+        thetaKDD = 0.5295; # No units                                                                          
+        phiKP = 242.5376; # [s-2]                                                                              
+        phiKI = 242.5376; # [s-3]                                                                              
+        phiKD = 30.3349; # [s-1]                                                                               
+        phiKDD = 0.4879; # No units                                                                            
+        psiKP = 0.0; # [s-2]                                                                                   
+        psiKI = 0.0; # [s-3]                                                                                   
+        psiKD = 0.0; # [s-1]                                                                                   
+        psiKDD = 0.0; # No units                                                                               
+  }),                                                                                                          
+  ("Rescue", {                                                                                                 
+        thetaKP = 264.7408; # [s-2]                                                                            
+        thetaKI = 264.7408; # [s-3]                                                                            
+        thetaKD = 33.0926; # [s-1]                                                                             
+        thetaKDD = 0.5295; # No units                                                                          
+        phiKP = 242.5376; # [s-2]                                                                              
+        phiKI = 242.5376; # [s-3]                                                                              
+        phiKD = 30.3349; # [s-1]                                                                               
+        phiKDD = 0.4879; # No units                                                                            
+        psiKP = 0.0; # [s-2]                                                                                   
+        psiKI = 0.0; # [s-3]                                                                                   
+        psiKD = 11.0; # [s-1]                                                                                  
+        psiKDD = 0.0; # No units                                                                               
+  })                                                                                                           
+);                                                                                                             
+                                                                                                               
+# Speed                                                                                                        
+                                                                                                               
+maxSpeedIntegral = [11.6667, 11.6667]; # [deg]      
