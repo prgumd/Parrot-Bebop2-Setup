@@ -10,6 +10,9 @@
 3. [NVIDIA TX2 Ubuntu 16.04 Setup](https://github.com/chahatdeep/ubuntu-for-robotics/tree/master/Nvidia-TX2-JetPack-setup)
 ***
 
+###### Check out our Youtube video which depicts the setup used for the proposed GapFlyt framework of a bio-inspired perceptual design for quadrotors.
+[![GapFlyt: Active Vision Based Minimalist Structure-less Gap Detection For Quadrotor Flight](img/thumbnail.png)](https://www.youtube.com/watch?v=FSSqB7ag04w)
+
 # Authors
 - [Chahat Deep Singh](github.com/chahatdeep/)
 - [Nitin J Sanket](github.com/NitinJSanket/)
