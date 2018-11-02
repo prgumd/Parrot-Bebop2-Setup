@@ -8,22 +8,22 @@ Danger: Pay careful attention to following instructions as these modifications c
 ```
 
 1. Parrot Bebop 2:
-<img src="img/1.jpg" width="50%">
+<img src="img/1.jpg" width="75%">
 
 2. Unscrew the two screws holding the nose of the Bebop 2
-<img src="img/2.jpg">
+<img src="img/2.jpg" width="75%">
 
 3. Take out the nose of Bebop 2
-<img src="img/3.jpg">
+<img src="img/3.jpg" width="75%">
 
 4. Unscrew the three screws that holds the GPS+Compass module as shown in figure.
-<img src="img/4.jpg">
+<img src="img/4.jpg" width="75%">
 
 5. Solder two wires at the Positive and the Negative terminal of the board as shown.
-<img src="img/5.jpg">
+<img src="img/5.jpg" width="75%">
 
 6. Make sure the wire is long enough so that it can reach the power inlet port of TX2.
-<img src="img/6.jpg">
+<img src="img/6.jpg" width="75%">
 
 ```
 Note: Put back GPS (don't forget to clip back the flex) and the nose.
