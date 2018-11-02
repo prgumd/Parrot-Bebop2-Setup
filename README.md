@@ -1,4 +1,4 @@
-# Parrot Bebop2 setup with NVIDIA JETSON TX2:
+# Parrot Bebop2 setup with NVIDIA JETSON TX2
 ### This repository is for supporting the [GapFlyt paper](https://github.com/prgumd/GapFlyt) hardware setup. Please read [GapFlyt Wiki](https://github.com/prgumd/GapFlyt/wiki) for the algorithm used.
 
 [GapFlyt](https://github.com/prgumd/GapFlyt) by Perception & Robotics Group at the Department of Computer Science, University of Maryland- College Park.
