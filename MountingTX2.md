@@ -8,14 +8,13 @@ Danger: Pay careful attention to following instructions as these modifications c
 ```
 
 1. Parrot Bebop 2:
-![img/1.jpg](img/1.jpg)
+<img src="img/1.jpg">
 
 2. Unscrew the two screws holding the nose of the Bebop 2
-![img/2.jpg](img/2.jpg)
+<img src="img/2.jpg">
 
 3. Take out the nose of Bebop 2
 <img src="img/3.jpg">
-<!--![img/3.jpg](img/3.jpg)-->
 
 4. Unscrew the three screws that holds the GPS+Compass module as shown in figure.
 ![img/4.jpg](img/4.jpg)
