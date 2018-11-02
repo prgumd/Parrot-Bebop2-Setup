@@ -75,3 +75,5 @@ reconnect the battery on the drone temporarily.
 <img src="img/24.jpg" width="50%"> 
 
 ***
+
+## Now continue with the [Parrot's Software Setup](Firmware-Instructions.md), followed by [NVIDIA TX2 Ubuntu Setup](https://github.com/chahatdeep/ubuntu-for-robotics/tree/master/Nvidia-TX2-JetPack-setup).
