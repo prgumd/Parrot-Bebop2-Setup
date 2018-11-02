@@ -53,7 +53,7 @@ reconnect the battery on the drone temporarily.
 
 
 13. Attach a 3D printed TX2 shield and stick it on the edge (front) of the Bebop 2 Battery.
-<img src="img/14.jpg" width="75%">
+<img src="img/14.jpg" width="50%">
 
 14. Screw in the TX2+Orbitty board ot the 3D printed shield. <br>
 <img src="img/15.jpg" width="200"><img src="img/16.jpg" width="200"><img src="img/17.jpg" width="200">   
@@ -61,17 +61,17 @@ reconnect the battery on the drone temporarily.
 15. Do not connect the Bebop 2 battery to the Bebop 2 yet. Make sure the battery sits on the drone but there is no power connection. Connect the positive and the negative terminal from Bebop 2 to the TX2 input terminal. <br>
 <img src="img/18.jpg" width="400"> <img src="img/21.jpg" width="250"> 
 
-<img src="img/22.jpg"> 
+<img src="img/22.jpg" width="60%"> 
 
 16. Tie the loose cable safely to the drone:
-![img/23.jpg](img/23.jpg)
+<img src="img/23.jpg" width="60%"> 
 
 17. Now safely turn on the TX2.
-![img/19.jpg](img/19.jpg)
+<img src="img/19.jpg" width="70%"> 
 
 
 18. Turn on Bebop 2 using the standard power button.
-<img src="img/20.jpg" width="350"> 
-<img src="img/24.jpg" width="350"> 
+<img src="img/20.jpg" width="50%"> 
+<img src="img/24.jpg" width="50%"> 
 
 ***
