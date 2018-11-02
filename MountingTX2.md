@@ -13,6 +13,8 @@ Danger: Pay careful attention to following instructions as these modifications c
 2. Unscrew the two screws holding the nose of the Bebop 2
 ![img/2.jpg](img/2.jpg)
 
+
+
 3. Take out the nose of Bebop 2
 ![img/3.jpg](img/3.jpg)
 
