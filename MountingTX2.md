@@ -32,10 +32,10 @@ reconnect the battery on the drone temporarily.
 ```
 
 7. Now, in the **TX2 development board**, first take out the active heat sink/fan power.
-<img src="img/7.jpg" width="75%">
+<img src="img/7.jpg" width="60%">
 
 8. Unscrew the outer four screws to remove the TX2 from the dev board and inner four screws to remove heat sink.  
-<img src="img/8.jpg" width="75%">
+<img src="img/8.jpg" width="60%">
 
 9. Removing the heat sink
 <img src="img/9.jpg" width="75%">
