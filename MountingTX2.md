@@ -17,19 +17,20 @@ Danger: Pay careful attention to following instructions as these modifications c
 <img src="img/3.jpg">
 
 4. Unscrew the three screws that holds the GPS+Compass module as shown in figure.
-![img/4.jpg](img/4.jpg)
+<img src="img/4.jpg">
 
 5. Solder two wires at the Positive and the Negative terminal of the board as shown.
-![img/5.jpg](img/5.jpg)
+<img src="img/5.jpg">
 
 6. Make sure the wire is long enough so that it can reach the power inlet port of TX2.
-![img/6.jpg](img/6.jpg)
+<img src="img/6.jpg">
 
 ```
-Put back GPS (don't forget to clip back the flex) and the nose.
+Note: Put back GPS (don't forget to clip back the flex) and the nose.
 Isolate the end of the wires with duct tape because we need to 
 reconnect the battery on the drone temporarily.
 ```
+
 7. Now, in the **TX2 development board**, first take out the active heat sink/fan power.
 ![img/7.jpg](img/7.jpg)
 
