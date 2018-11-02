@@ -11,7 +11,7 @@
 ***
 
 ###### Check out our Youtube video which depicts the setup used for the proposed GapFlyt framework of a bio-inspired perceptual design for quadrotors.
-[<img src="img/bebop2-setup.jpeg">GapFlyt: Active Vision Based Minimalist Structure-less Gap Detection For Quadrotor Flight](https://www.youtube.com/watch?v=FSSqB7ag04w)
+[<img src="img/bebop2-setup.jpeg">](https://www.youtube.com/watch?v=FSSqB7ag04w)
 
 ### Authors
 - [Chahat Deep Singh](github.com/chahatdeep/)
