@@ -48,11 +48,12 @@ reconnect the battery on the drone temporarily.
 
 12. Connected module is shown below:
 
-<img src="img/12.jpg" width="300"> <img src="img/13.jpg" width="300"> 
+<img src="img/12.jpg" width="300"> 
+<img src="img/13.jpg" width="300"> 
 
 
 13. Attach a 3D printed TX2 shield and stick it on the edge (front) of the Bebop 2 Battery.
-![img/14.jpg](img/14.jpg)
+<img src="img/14.jpg" width="75%">
 
 14. Screw in the TX2+Orbitty board ot the 3D printed shield. <br>
 <img src="img/15.jpg" width="200"><img src="img/16.jpg" width="200"><img src="img/17.jpg" width="200">   
