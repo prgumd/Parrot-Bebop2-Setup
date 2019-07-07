@@ -9,7 +9,7 @@ roscore
 ```
 roslaunch bebop_driver bebop_node.launch
 ```
-4. Use the following commands to do specific tasks:
+4. Use the following commands to do specific tasks: <br>
 Takeoff:
 ```
 rostopic pub --once /bebop/takeoff std_msgs/Empty
